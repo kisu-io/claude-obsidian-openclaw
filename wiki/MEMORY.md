@@ -12,13 +12,14 @@ status: evergreen
 related:
   - "[[index]]"
   - "[[overview]]"
+  - "[[agents/Saul/agent]]"
+  - "[[agents/Cody/agent]]"
+  - "[[projects/VDR-Tuan-Chau/project]]"
 ---
 
 # Oculus Memory
 
 Long-term memory for the **Oculus** agent (OpenClaw orchestrator, running on Keezhu's macOS).
-
-> This note is synced from OpenClaw's `MEMORY.md` — do not edit directly here.
 
 ## Identity
 
@@ -34,39 +35,49 @@ Long-term memory for the **Oculus** agent (OpenClaw orchestrator, running on Kee
 |---|---|---|
 | **Oculus** (main) | `~/.openclaw/workspace/` | Router, memory, proactive |
 | **Saul** (subagent) | `/Users/oculus/Documents/Saul` | Legal + Vietnam architecture/zoning |
+| **Cody** (subagent) | `/Users/oculus/Documents/Cody` | Coding — Claude Code CLI engine |
 
-## Key Files
+## Skills Installed
 
-- OpenClaw MEMORY.md: `~/.openclaw/workspace/MEMORY.md`
-- Saul system prompt: `~/.openclaw/agents/saul/agent/system-prompt.md`
-- Saul project memory: `/Users/oculus/Documents/Saul/memory/vdr-tuan-chau.md`
+| Skill | Purpose |
+|---|---|
+| `humanizer` | AI text humanization |
+| `vietnamese` | Natural Vietnamese writing |
+| `github` | GitHub integration |
+| `weather` | Weather forecasts |
+| `summarize-pro` | Content summarization |
+| `openclaw-skill-vetter` | Pre-install security review |
+| `self-improving-agent` | Proactive self-reflection |
+| `openclaw-claude-code` | Claude Code CLI integration (Cody's engine) |
 
 ## Known Projects
 
-### Jen Tuan Chau / Caye Sereno
-- Ultra-luxury villa resort, Đảo Tuần Châu, Hạ Long
+### [[projects/VDR-Tuan-Chau/project]]
+- Jen Tuan Chau / Caye Sereno — Ultra-luxury villa resort, Hạ Long
 - 18 villas, 15,828 m², completed 2015
-- Corporate: Công ty TNHH Jen Tuan Chau — MST 5701599302
-- Ownership: 49% Đào Ngọc Co. / 51% Jen Capital Vietnam (Chiaphua Group, Hong Kong)
-- Leadership: Chủ tịch Đào Thùy Phương Thảo, TGĐ Huỳnh Quang Thuận
-- Legal: Investment cert + ĐKKD amended 5×, land certs Bi 462036 + Bi 462037
-- Key risks: UNESCO buffer zone, planning status unclear, PCCC docs missing
-- Full details: `/Users/oculus/Documents/Saul/memory/vdr-tuan-chau.md`
+- Key risks: UNESCO buffer zone, planning unclear, PCCC docs missing
+- Managed by: [[agents/Saul/agent]]
 
 ## System Config
 
-- **Gateway:** loopback, port 18789, auth token set
-- **Telegram:** connected (user 566009262 approved)
+- **Gateway:** loopback, port 18789
+- **Telegram:** user 566009262 approved, groups allowed
+- **Subagent timeout:** 300s
 - **Memory backend:** builtin (memvid + SQLite)
-- **Memvid:** `~/.openclaw/memvid/main.mv2`
-- **Memory SQLite:** `~/.openclaw/memory/main.sqlite` + `oculus.sqlite`
-- **Daily notes:** `memory/YYYY-MM-DD.md` in workspace
 
-## Obsidian Link
+## Obsidian Structure
 
-Sync anchor: `[[MEMORY]]` ↔ `~/.openclaw/workspace/MEMORY.md`
+- `agents/Saul/` — Saul's notes
+- `agents/Cody/` — Cody's notes
+- `projects/VDR-Tuan-Chau/` — Project wiki
 
-Last synced: 2026-04-17
+## Learned Preferences
+
+- Keezhu prefers direct, no-fluff communication
+- Uses `trash` > `rm` for safety
+- Always confirm before external actions
 
 ---
-_This is a mirror of the OpenClaw MEMORY.md — source of truth lives at `~/.openclaw/workspace/MEMORY.md`_
+
+_Source: `~/.openclaw/workspace/MEMORY.md`_
+_Last synced: 2026-04-17_

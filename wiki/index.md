@@ -1,6 +1,7 @@
 ---
 type: meta
 title: "Wiki Index"
+created: 2026-04-07
 updated: 2026-04-07
 tags:
   - meta
@@ -23,7 +24,7 @@ related:
 
 # Wiki Index
 
-Last updated: 2026-04-08 | Total pages: 26 | Sources ingested: 2
+Last updated: 2026-04-16 | Total pages: 27 | Sources ingested: 2
 
 Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[Wiki Map]] | [[getting-started]]
 
