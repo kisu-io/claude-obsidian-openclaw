@@ -11,9 +11,14 @@
 - Investment: ~1,000 tỷ VND (~$40M)
 - Ownership: 49% Đào Ngọc Co. / 51% Jen Capital Vietnam (Chiaphua Group)
 
+## Maps & Planning
+- [[maps/quang-ninh-planning-maps]] — Bản đồ QH tỉnh + Hạ Long (PDF 16MB + 195KB)
+  - `maps/quang_ninh_tinh_qh_2021_2030.pdf` — QH tỉnh 2021–2030 tầm nhìn 2050 (711 trang)
+  - `maps/ha_long_qhsdđ_2030.pdf` — Bản đồ QHSDĐ TP Hạ Long 2030
+
 ## Key Risks
-- 🔴 UNESCO buffer zone (Vịnh Hạ Long)
-- 🟡 Planning status unclear (27 plans cancelled 2019)
+- 🔴 UNESCO buffer zone (Vịnh Hạ Long) — 306 km² vùng đệm
+- 🟡 Planning status unclear (27 plans cancelled 2019) — cần xác nhận QĐ 1112/QĐ-UBND còn hiệu lực
 - 🟡 PCCC docs missing
 - 🟡 GPXD exemption relies on missing FS verification docs
 
