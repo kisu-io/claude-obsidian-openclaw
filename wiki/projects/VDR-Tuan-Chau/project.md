@@ -1,34 +1,37 @@
 # VDR Tuan Chau
 
-**Project:** Jen Tuan Chau / Caye Sereno
+_Last updated: 2026-04-17_
+
+## Project: Jen Tuan Chau / Caye Sereno
+
 **Type:** Ultra-luxury villa resort
 **Location:** Đảo Tuần Châu, Hạ Long, Quảng Ninh
-**Managed by:** [[Saul]]
+**Status:** Existing project, completed 2015
 
-## Quick Facts
+### Quick Facts
 - 18 villas, 15,828 m²
-- Completed: 2015
+- Completed: 19-06-2015
 - Investment: ~1,000 tỷ VND (~$40M)
-- Ownership: 49% Đào Ngọc Co. / 51% Jen Capital Vietnam (Chiaphua Group)
+- Ownership: 49% Đào Ngọc Co. / 51% Jen Capital Vietnam (Chiaphua Group, HK)
+- Corporate: Công ty TNHH Jen Tuan Chau — MST 5701599302
 
-## Maps & Planning
-- [[maps/quang-ninh-planning-maps]] — Bản đồ QH tỉnh + Hạ Long (PDF 16MB + 195KB)
-  - `maps/quang_ninh_tinh_qh_2021_2030.pdf` — QH tỉnh 2021–2030 tầm nhìn 2050 (711 trang)
-  - `maps/ha_long_qhsdđ_2030.pdf` — Bản đồ QHSDĐ TP Hạ Long 2030
-
-## Key Risks
-- 🔴 UNESCO buffer zone (Vịnh Hạ Long) — 306 km² vùng đệm
-- 🟡 Planning status unclear (27 plans cancelled 2019) — cần xác nhận QĐ 1112/QĐ-UBND còn hiệu lực
+### Key Risks
+- 🔴 UNESCO buffer zone (Vịnh Hạ Long World Heritage)
+- 🟡 Planning status unclear (27 plans cancelled 2019)
 - 🟡 PCCC docs missing
-- 🟡 GPXD exemption relies on missing FS verification docs
+- 🟡 GCNĐT revision 5 (10-07-2025) content unknown
 
-## Legal Status
-- Giấy CN ĐKKD: 5th amendment (26-06-2025)
-- Giấy phép đầu tư: 5th amendment (10-07-2025)
-- Land certs: Bi 462036 + Bi 462037
+### Leadership
+- Chairwoman: Đào Thùy Phương Thảo
+- CEO: Huỳnh Quang Thuận
 
-## Full Details
-Memory file: `/Users/oculus/Documents/Saul/memory/vdr-tuan-chau.md`
+### Related Agents
+- Saul: Legal/architecture lead for this project
+- Dashboard: https://kisu-io.github.io/vdr-dashboard/
+
+### ISOLATED
+- This project does NOT share context with CUR-8 or any other project
+- Each project has its own isolated memory
 
 ---
 
