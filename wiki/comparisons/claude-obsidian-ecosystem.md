@@ -141,9 +141,11 @@ Linus Kepano (Obsidian creator + Minimal theme) published official Agent Skills 
 
 See [[cherry-picks]] for prioritized list with implementation notes.
 
-Top 5 gaps by impact:
-1. No delta tracking → re-ingests everything on every compile
-2. No URL ingestion → forces manual copy-paste
-3. No auto-commit → vault changes aren't versioned automatically
-4. No multi-depth query → one mode for all questions
-5. No vision input → can't ingest screenshots or images
+Remaining gaps by impact (as of v1.4.1):
+1. No Marp / slides output → cannot generate presentations from wiki content
+2. No hybrid search (BM25 + vector) → relies on Obsidian full-text and Dataview
+3. No goal cascade / PKM daily review → not a productivity system
+4. No adopt-existing-vault flow → requires scaffolding into an empty or new vault
+5. No chart output → no programmatic matplotlib-style data visuals
+
+Shipped in v1.1 (previously listed as gaps): delta tracking, URL ingestion, vision ingest, multi-depth query, auto-commit hooks.
