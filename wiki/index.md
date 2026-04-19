@@ -71,6 +71,35 @@ Navigation: [[overview]] | [[log]] | [[hot]] | [[dashboard]] | [[MEMORY]] | [[Wi
 
 ---
 
+## Agents
+
+- [[agents/Cody/agent|Cody]] — coding agent, Claude Code CLI engine, file operations and automation (status: evergreen)
+- [[agents/Saul/agent|Saul]] — Vietnamese legal and architecture agent, zoning, PCCC, land law (status: evergreen)
+
+---
+
+## Projects
+
+- [[projects/VDR-Tuan-Chau/project|VDR-Tuan-Chau]] — Jen Tuan Chau / Caye Sereno ultra-luxury villa resort, Hạ Long (status: developing)
+  - [[projects/VDR-Tuan-Chau/maps/quang-ninh-planning-maps|Quảng Ninh planning maps]] — zoning and UNESCO buffer zone references
+- [[projects/CUR-8/project|CUR-8]] — new project, isolated from VDR (status: seed)
+
+---
+
+## System
+
+- [[MEMORY]] — Oculus orchestrator long-term memory: identity, agent roster, system config (status: evergreen)
+
+---
+
+## Meta
+
+- [[dashboard]] — Dataview and Bases views of vault state
+- [[meta/lint-report-2026-04-20|Lint report 2026-04-20]] — current health check (34 pages, 41 issues)
+- [[meta/lint-report-2026-04-16|Lint report 2026-04-16]] — prior health check
+
+---
+
 ## Domains
 
-<!-- Add domain entries here after scaffold -->
+Domain pages are not yet in use. When a subject area accumulates enough entities and concepts, create `wiki/<domain>/_index.md` and link it here.
