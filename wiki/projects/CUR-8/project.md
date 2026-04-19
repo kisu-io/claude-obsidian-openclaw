@@ -1,3 +1,14 @@
+---
+type: project
+title: "CUR-8"
+created: 2026-04-19
+updated: 2026-04-19
+tags:
+  - project
+  - cur-8
+status: seed
+---
+
 # CUR-8
 
 _Last updated: 2026-04-19_
