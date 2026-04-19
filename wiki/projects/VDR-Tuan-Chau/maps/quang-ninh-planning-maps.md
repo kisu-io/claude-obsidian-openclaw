@@ -105,6 +105,3 @@ Dự án nằm trong **vùng đệm** (buffer zone) của Di sản Thiên nhiên
 - [ ] Xác nhận bằng văn bản từ Ban QL Vịnh Hạ Long về giới hạn xây dựng cho khu Lâm Ngọc
 - [ ] Đối chiếu QĐ 5222/QĐ-UBND (QH 1/2000 đảo Tuần Châu 2019) với ranh giới khu dự án
 
----
-
-_tags: #planning #quang-ninh #ha-long #tuan-chau #maps #QHSDD #UNESCO #buffer-zone_
