@@ -45,6 +45,9 @@ _Last updated: 2026-04-17_
 - Chairwoman: Đào Thùy Phương Thảo
 - CEO: Huỳnh Quang Thuận
 
+### Related Files
+- [[projects/VDR-Tuan-Chau/maps/quang-ninh-planning-maps|Quảng Ninh planning maps]] — zoning, UNESCO buffer zone, QH legal framework
+
 ### Related Agents
 - Saul: Legal/architecture lead for this project
 - Dashboard: https://kisu-io.github.io/vdr-dashboard/
