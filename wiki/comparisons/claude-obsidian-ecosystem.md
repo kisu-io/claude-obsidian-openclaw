@@ -47,11 +47,11 @@ sources:
 | Autoresearch loop | ✅ | ❌ | 🟡 | ❌ | ❌ | ❌ |
 | Canvas / visual layer | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | Hot cache | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| **Delta tracking** | ❌ | ❌ | ❌ | ❌ | ✅⭐ | ❌ |
-| **Multi-depth query** | ❌ | ❌ | ✅⭐ | ❌ | ❌ | ❌ |
-| **URL ingestion** | ❌ | 🟡 firecrawl | ❌ | ✅ | ✅ | ❌ |
-| **Vision / image ingest** | ❌ | 🟡 gemini | ❌ | ❌ | ✅⭐ | ❌ |
-| **Auto-commit hooks** | ❌ | ❌ | ❌ | ✅ git | ❌ | ✅⭐ |
+| **Delta tracking** | ✅ manifest | ❌ | ❌ | ❌ | ✅⭐ | ❌ |
+| **Multi-depth query** | ✅ 3 modes | ❌ | ✅⭐ | ❌ | ❌ | ❌ |
+| **URL ingestion** | ✅ defuddle | 🟡 firecrawl | ❌ | ✅ | ✅ | ❌ |
+| **Vision / image ingest** | ✅ native | 🟡 gemini | ❌ | ❌ | ✅⭐ | ❌ |
+| **Auto-commit hooks** | ✅ PostToolUse | ❌ | ❌ | ✅ git | ❌ | ✅⭐ |
 | **Marp / slides output** | ❌ | ❌ | ✅⭐ | ✅ | ❌ | ❌ |
 | **Chart output** | ❌ | ❌ | ✅ matplotlib | ❌ | ❌ | ❌ |
 | **Hybrid search (BM25+vec)** | ❌ | ❌ | ❌ | ✅⭐ qmd | ❌ | ❌ |
