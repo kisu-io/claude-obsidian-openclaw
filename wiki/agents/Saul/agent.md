@@ -33,7 +33,7 @@ status: evergreen
 - `vietnamese`, `humanizer`
 
 ## Known Projects
-- [[VDR Tuan Chau]] - Ultra-luxury villa resort, Hạ Long
+- [[projects/VDR-Tuan-Chau/project|VDR Tuan Chau]] - Ultra-luxury villa resort, Hạ Long
 
 ---
 
