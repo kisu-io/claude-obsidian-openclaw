@@ -1,3 +1,17 @@
+---
+type: agent
+title: "Saul"
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+  - agent
+  - saul
+  - openclaw
+  - legal
+  - vietnam
+status: evergreen
+---
+
 # Saul - Legal & Architecture Agent
 
 **Workspace:** `/Users/oculus/Documents/Saul`
