@@ -1,3 +1,23 @@
+---
+type: project
+title: "VDR Tuan Chau"
+aliases:
+  - "Jen Tuan Chau"
+  - "Caye Sereno"
+  - "Lâm Ngọc villa zone"
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+  - project
+  - vdr
+  - tuan-chau
+  - vietnam
+status: developing
+related:
+  - "[[projects/VDR-Tuan-Chau/maps/quang-ninh-planning-maps]]"
+  - "[[agents/Saul/agent]]"
+---
+
 # VDR Tuan Chau
 
 _Last updated: 2026-04-17_
