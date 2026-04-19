@@ -1,3 +1,15 @@
+---
+type: agent
+title: "Cody"
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+  - agent
+  - cody
+  - openclaw
+status: evergreen
+---
+
 # Cody - Coding Agent
 
 **Workspace:** `/Users/oculus/Documents/Cody`
