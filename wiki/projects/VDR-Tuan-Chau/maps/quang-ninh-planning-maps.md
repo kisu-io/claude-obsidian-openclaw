@@ -1,6 +1,27 @@
+---
+type: reference
+title: "Bản Đồ Quy Hoạch Quảng Ninh và Hạ Long"
+created: 2026-04-17
+updated: 2026-04-17
+tags:
+  - project
+  - vdr
+  - maps
+  - planning
+  - quang-ninh
+  - ha-long
+  - tuan-chau
+  - qhsdd
+  - unesco
+  - buffer-zone
+status: developing
+related:
+  - "[[projects/VDR-Tuan-Chau/project]]"
+---
+
 # Bản Đồ Quy Hoạch — Quảng Ninh & Hạ Long
 
-**Project:** VDR Tuan Chau / Caye Sereno
+**Project:** [[projects/VDR-Tuan-Chau/project|VDR Tuan Chau / Caye Sereno]]
 **Updated:** 2026-04-17
 
 ---
