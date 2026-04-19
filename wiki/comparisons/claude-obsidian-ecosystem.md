@@ -2,7 +2,7 @@
 type: comparison
 title: "Claude + Obsidian Ecosystem: Feature Matrix"
 created: 2026-04-08
-updated: 2026-04-08
+updated: 2026-04-20
 tags:
   - ecosystem
   - competitive-analysis
@@ -13,6 +13,7 @@ related:
   - "[[cherry-picks]]"
   - "[[LLM Wiki Pattern]]"
   - "[[Andrej Karpathy]]"
+  - "[[claude-obsidian-v1.4-release-session]]"
 sources:
   - "[[claude-obsidian-ecosystem-research]]"
 ---
@@ -20,6 +21,9 @@ sources:
 # Claude + Obsidian Ecosystem: Feature Matrix
 
 > Researched 2026-04-08 | 16+ projects analyzed | See [[cherry-picks]] for action items
+
+> [!info] Matrix updated 2026-04-20
+> The `claude-obsidian` column was revised after v1.1 shipped delta tracking, URL ingestion, vision ingest, multi-depth query, and auto-commit. See [[claude-obsidian-v1.4-release-session]] for details.
 
 ---
 
