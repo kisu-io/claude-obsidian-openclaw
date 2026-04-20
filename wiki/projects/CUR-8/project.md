@@ -1,39 +1,37 @@
----
-type: project
-title: "CUR-8"
-created: 2026-04-19
-updated: 2026-04-19
-tags:
-  - project
-  - cur-8
-status: seed
----
+# CUR-8 × GoodFellas
 
-# CUR-8
+_Last updated: 2026-04-20_
 
-_Last updated: 2026-04-19_
+## Project: CUR-8 × GoodFellas
 
-## Project: CUR-8
-
-**Type:** (TBD - chờ Keezhu cung cấp)
-**Location:** (TBD)
-**Status:** NEW project — fresh start
+**Type:** Multi-zone cafe/bar/performance venue (Kissa-style)
+**Location:** Vietnam (TBD)
+**Status:** Active — content developed
 
 ### Quick Facts
-- (Chưa có thông tin — Keezhu sẽ cung cấp)
+- 68 seats, 3 zones (Cafe/Bar/Sound Lab)
+- Investment: 4.06B VND
+- Target: Gen Z, millennials, urban professionals
 
-### Key Info Needed
-- Project overview
-- Location
-- Scope/size
-- Investment details
-- Legal status
-- Team involved
+### Key Documents
+- `behavioural_code.md` — Customer & staff behavioural code (437 lines)
+  - Time-based rules (Morning cafe → Night bar)
+  - Customer rules (C1-C18), Staff rules (S1-S20)
+  - VIP/kid/dress code policies
 
-### Notes
-- **ISOLATED from VDR-Tuan-Chau** — do not mix context
-- Start fresh, no assumptions from other projects
+### Venue Zones
+1. **Cafe** — morning mode, no alcohol, quiet
+2. **Bar** — alcohol served, louder music
+3. **Sound Lab** — performance space
+
+### Operational Notes
+- Kissa-style: rules flex by time slot
+- Staff training program included
+- No alcohol before 11:00
+
+### ISOLATED
+- This project does NOT share context with VDR-Tuan-Chau or any other project
 
 ---
 
-_Last updated: 2026-04-19_
+_Last updated: 2026-04-20_
